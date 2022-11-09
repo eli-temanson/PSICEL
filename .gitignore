@@ -1,0 +1,11 @@
+# ignore everything (dirs, files, sub-dirs, sub-files)
+/*
+
+# Do not ignore the following
+!/psicel
+!/test_config.yaml
+!/CMakeLists.txt
+!/README.md
+!/LICENSE
+!.gitignore
+!.gitattributes
