@@ -4,6 +4,6 @@
 [submodule "psicel/vendor/catima"]
 	path = psicel/vendor/catima
 	url = https://github.com/gwm17/catima.git
-[submodule "Specter/vendor/spdlog"]
-	path = Specter/vendor/spdlog
+[submodule "psicel/vendor/spdlog"]
+	path = psicel/vendor/spdlog
 	url = https://github.com/gabime/spdlog.git
